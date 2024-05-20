@@ -1,0 +1,80 @@
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{{Acknowledgments}}{vi}{chapter*.4}%
+\contentsline {chapter}{\thectufitdeclarationlabel }{vii}{chapter*.5}%
+\contentsline {chapter}{{Abstract}}{viii}{chapter*.6}%
+\contentsline {chapter}{\thectufitabbreviationlabel }{ix}{chapter*.7}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Theoretical Background}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Current Methods for Sperm Analysis}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}The collaborative project}{3}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Video Dataset Overview}{3}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Tracking System Overview}{3}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Deep Learning Fundamentals}{4}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Introduction to Neural Networks}{4}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Recurrent Neural Networks}{4}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.1}The Vanishing Gradient Problem}{5}{subsubsection.2.3.2.1}%
+\contentsline {subsection}{\numberline {2.3.3}Long Short-Term Memory Networks}{5}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Convolutional Neural Networks}{6}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}Explainable AI and Interpretability}{7}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Explanation Methods for Convolutional Neural Networks}{7}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Grad-CAM}{7}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}HiResCAM}{8}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Respond-CAM}{8}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}OpenCV for Image and Video Processing}{9}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Thresholding and Segmentation}{9}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Image Rotation}{9}{subsection.2.5.2}%
+\contentsline {chapter}{\numberline {3}Practical Implementation and Experiments}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Position-Based Path Forecasting}{11}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Dataset Preparation}{11}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}Splitting the Paths into Sequences}{12}{subsubsection.3.1.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.2}Choosing the Right Coordinate System}{12}{subsubsection.3.1.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.1.3}Filtering Outliers}{13}{subsubsection.3.1.1.3}%
+\contentsline {subsection}{\numberline {3.1.2}Model Development}{14}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.1}Predicting One Future Position at a Time}{14}{subsubsection.3.1.2.1}%
+\contentsline {subsubsection}{\numberline {3.1.2.2}Predicting Multiple Future Positions at Once}{15}{subsubsection.3.1.2.2}%
+\contentsline {section}{\numberline {3.2}Exploration with non-Position-Based Features}{16}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Isolating Individual Sperm Cells}{16}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Segmenting the Single Sperm Cell Videos}{17}{subsubsection.3.2.1.1}%
+\contentsline {section}{\numberline {3.3}Image-Based Features}{18}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}The Direction of Sperm Cells}{18}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Classification of Sperm Cell Direction}{21}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}Creating the Dataset}{21}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.3.2.2}Model Architecture}{21}{subsubsection.3.3.2.2}%
+\contentsline {section}{\numberline {3.4}Video-Based Features}{23}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Objective Definition: Predicting Sperm Cell Rotation}{23}{subsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.1.1}Creating the Dataset}{24}{subsubsection.3.4.1.1}%
+\contentsline {subsubsection}{\numberline {3.4.1.2}Model Development}{25}{subsubsection.3.4.1.2}%
+\contentsline {chapter}{\numberline {4}Results and Evalution}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Path Prediction with LSTM}{27}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Predicting Direction from Image Data}{30}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Explaining the Model's Predictions}{32}{subsection.4.2.1}%
+\contentsline {section}{\numberline {4.3}Predicting Rotation from Video Data}{34}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Conclusion}{36}{chapter.5}%
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Medium Attachment}{39}{appendix*.34}%

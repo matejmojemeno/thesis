@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'ctufit-thesis.blg'
+[86] biber:340> INFO - === Thu May 16, 2024, 23:46:42
+[98] Biber.pm:419> INFO - Reading 'ctufit-thesis.bcf'
+[159] Biber.pm:979> INFO - Found 15 citekeys in bib section 0
+[171] Biber.pm:4419> INFO - Processing section 0
+[180] Biber.pm:4610> INFO - Looking for bibtex file 'text/bib-database.bib' for section 0
+[181] bibtex.pm:1713> INFO - LaTeX decoding ...
+[194] bibtex.pm:1519> INFO - Found BibTeX data source 'text/bib-database.bib'
+[308] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[309] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[309] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[309] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[321] bbl.pm:660> INFO - Writing 'ctufit-thesis.bbl' with encoding 'UTF-8'
+[326] bbl.pm:763> INFO - Output to ctufit-thesis.bbl
+[326] Biber.pm:131> WARN - legacy month field 'Nov' in entry 'rnn-introduction' is not an integer - this will probably not sort properly.
+[326] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_B8HB/45cb25f40ed80535b75e6a159fadd1f7_671877.utf8, line 121, warning: 129 characters of junk seen at toplevel
+[326] Biber.pm:133> INFO - WARNINGS: 2

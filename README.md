@@ -1,6 +1,7 @@
-# thesis
+# Video Recording Based Sperm Cell Movement Prediction and Modes of movement Detection
 
-## Disclaimer
-
-Please note that this code is not officially part of the submitted thesis. Due to time constraints and the submission deadline, the code included in the thesis attachments was not as refined. This repository aims to provide better and more usable versions of the code for reference and further development.
-
+This thesis explores the use of machine learning techniques to predict the
+future path of sperm cells, classify their directional orientation, and predict
+their rotation from video data. The research is motivated by the need to better
+understand the behavior and motility of sperm cells, which play a crucial role
+in biomedical research and human reproduction studies.
